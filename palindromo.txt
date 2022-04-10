@@ -1,3 +1,6 @@
+Integrantes: Paolo Paredes, Esteban Saez, Marcelo Henríquez.
+
+
 punto 1
 ¿Qué hace el método?
 
